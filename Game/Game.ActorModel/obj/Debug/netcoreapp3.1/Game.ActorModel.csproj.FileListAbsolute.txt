@@ -1,0 +1,9 @@
+C:\Users\ZachCervi\Documents\Development\akka\Game\Game.ActorModel\bin\Debug\netcoreapp3.1\Game.ActorModel.deps.json
+C:\Users\ZachCervi\Documents\Development\akka\Game\Game.ActorModel\bin\Debug\netcoreapp3.1\Game.ActorModel.dll
+C:\Users\ZachCervi\Documents\Development\akka\Game\Game.ActorModel\obj\Debug\netcoreapp3.1\Game.ActorModel.AssemblyInfoInputs.cache
+C:\Users\ZachCervi\Documents\Development\akka\Game\Game.ActorModel\obj\Debug\netcoreapp3.1\Game.ActorModel.AssemblyInfo.cs
+C:\Users\ZachCervi\Documents\Development\akka\Game\Game.ActorModel\bin\Debug\netcoreapp3.1\Game.ActorModel.pdb
+C:\Users\ZachCervi\Documents\Development\akka\Game\Game.ActorModel\obj\Debug\netcoreapp3.1\Game.ActorModel.csprojAssemblyReference.cache
+C:\Users\ZachCervi\Documents\Development\akka\Game\Game.ActorModel\obj\Debug\netcoreapp3.1\Game.ActorModel.csproj.CoreCompileInputs.cache
+C:\Users\ZachCervi\Documents\Development\akka\Game\Game.ActorModel\obj\Debug\netcoreapp3.1\Game.ActorModel.dll
+C:\Users\ZachCervi\Documents\Development\akka\Game\Game.ActorModel\obj\Debug\netcoreapp3.1\Game.ActorModel.pdb
